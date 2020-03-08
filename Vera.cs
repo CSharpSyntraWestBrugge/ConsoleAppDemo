@@ -6,6 +6,6 @@ namespace ConsoleAppDemo
 {
     class Vera
     {
-        public string Tekst { get; set; } = "Hello from  ...";
+        public string Tekst { get; set; } = "Hello from Vera.";
     }
 }
