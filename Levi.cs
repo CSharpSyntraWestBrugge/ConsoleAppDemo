@@ -6,6 +6,6 @@ namespace ConsoleAppDemo
 {
     class Levi
     {
-        public string Tekst { get; set; } = "Hello from  ...";
+        public string Tekst { get; set; } = "Hello from  Levi";
     }
 }

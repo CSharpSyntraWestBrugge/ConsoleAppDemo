@@ -7,6 +7,7 @@ namespace ConsoleAppDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Helena zegt: " +  (new Helena()).Tekst);
+             Console.WriteLine("Levi zegt: " +  (new Levi()).Tekst);
             Console.ReadKey();
         }
     }
